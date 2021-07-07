@@ -1,9 +1,7 @@
-# Kindly-Beta
-# All links and common extension information is in the ./public/manifest.json file
-# manifest follows format described at https://developer.chrome.com/docs/extensions/mv3/manifest/
-# Kindly API URL is in ./src/config.ts 
-
-# Kindly API Chrome Extension
+# Kindly-Beta API Chrome Extension
+All links and common extension information is in the ./public/manifest.json file
+manifest follows format described at https://developer.chrome.com/docs/extensions/mv3/manifest/
+Kindly API URL is in ./src/config.ts 
 
 Kindly API Chrome Extension written on TypeScript within Visual Studio Code.
 Supported all generic Textarea inputs, and extensible interface for the not-ordinary forms. Adapters for Twitter, Instagram, Facebook and Gmail already included.
